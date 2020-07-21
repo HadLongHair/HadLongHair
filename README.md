@@ -1,4 +1,3 @@
 ### No coke, no hope ~
 
-![avatar](http://baidu.com/pic/doge.png)
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://github.com/HadLongHair/HadLongHair/blob/master/media/zcds.PNG)
